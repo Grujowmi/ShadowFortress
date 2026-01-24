@@ -1,50 +1,50 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-01-24 18:30:05
+**Dernière mise à jour** : 2026-01-24 18:42:05
 
 ---
 
 ## 📊 Blacklist Entrante (Inbound)
 
-- **Sources consultées** : 5
-- **Sources réussies** : 5
+- **Sources consultées** : 6
+- **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 24,993
-- **IPs uniques** : 23,298
-- **IPs dans la liste finale** : 23,298
+- **IPs brutes collectées** : 48,998
+- **IPs uniques** : 38,525
+- **IPs dans la liste finale** : 38,525
 
 ### Top 10 IPs par score
-1. `198.199.75.137` - Score: 2
-2. `184.70.94.130` - Score: 2
-3. `45.148.10.152` - Score: 2
-4. `202.65.155.238` - Score: 2
-5. `109.176.202.12` - Score: 2
-6. `34.55.136.27` - Score: 2
-7. `43.134.184.20` - Score: 2
-8. `116.129.255.189` - Score: 2
-9. `46.151.182.45` - Score: 2
-10. `159.65.25.133` - Score: 2
+1. `82.67.140.251` - Score: 3
+2. `45.227.254.170` - Score: 3
+3. `37.120.213.13` - Score: 3
+4. `38.20.0.90` - Score: 3
+5. `64.227.98.100` - Score: 3
+6. `157.245.117.193` - Score: 3
+7. `159.65.150.171` - Score: 3
+8. `80.94.92.165` - Score: 3
+9. `213.209.159.158` - Score: 3
+10. `41.93.28.4` - Score: 3
 
 
 ---
 
 ## 📊 Blacklist Sortante (Outbound)
 
-- **Sources consultées** : 3
-- **Sources réussies** : 3
+- **Sources consultées** : 4
+- **Sources réussies** : 4
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 22,983
-- **IPs uniques** : 22,982
-- **IPs dans la liste finale** : 22,982
+- **IPs brutes collectées** : 181,859
+- **IPs uniques** : 167,569
+- **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `195.184.76.0` - Score: 2
-2. `14.103.128.118` - Score: 1
-3. `118.194.228.167` - Score: 1
-4. `165.154.138.34` - Score: 1
-5. `211.62.73.218` - Score: 1
-6. `101.47.161.56` - Score: 1
-7. `189.47.10.115` - Score: 1
-8. `147.185.132.10` - Score: 1
-9. `14.103.120.124` - Score: 1
-10. `74.87.117.146` - Score: 1
+1. `195.184.76.0` - Score: 3
+2. `47.251.80.203` - Score: 2
+3. `94.26.106.109` - Score: 2
+4. `221.120.57.125` - Score: 2
+5. `185.36.81.54` - Score: 2
+6. `116.110.23.120` - Score: 2
+7. `103.176.78.213` - Score: 2
+8. `152.32.180.138` - Score: 2
+9. `148.72.141.250` - Score: 2
+10. `209.54.106.219` - Score: 2
