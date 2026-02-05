@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-02-05 12:00:34
+**Dernière mise à jour** : 2026-02-05 18:00:36
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 69,744
-- **IPs uniques** : 48,219
-- **IPs dans la liste finale** : 48,219
+- **IPs brutes collectées** : 69,495
+- **IPs uniques** : 48,395
+- **IPs dans la liste finale** : 48,395
 
 ### Top 10 IPs par score
-1. `103.236.95.173` - Score: 5
-2. `103.40.61.98` - Score: 5
-3. `217.154.69.208` - Score: 4
-4. `142.248.80.57` - Score: 4
-5. `101.36.107.228` - Score: 4
-6. `185.177.72.49` - Score: 4
-7. `5.63.19.3` - Score: 4
-8. `140.245.99.19` - Score: 4
-9. `61.245.11.87` - Score: 4
-10. `185.177.72.22` - Score: 4
+1. `134.65.30.157` - Score: 4
+2. `49.248.192.204` - Score: 4
+3. `2.57.122.210` - Score: 4
+4. `89.187.162.178` - Score: 4
+5. `45.227.254.10` - Score: 4
+6. `31.59.129.85` - Score: 4
+7. `81.163.30.15` - Score: 4
+8. `103.40.61.98` - Score: 4
+9. `185.177.72.30` - Score: 4
+10. `61.245.11.87` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 215,345
-- **IPs uniques** : 185,405
+- **IPs brutes collectées** : 213,112
+- **IPs uniques** : 181,795
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `45.138.16.192` - Score: 3
-2. `5.175.136.77` - Score: 3
-3. `91.224.92.78` - Score: 3
-4. `91.92.243.162` - Score: 3
-5. `178.16.52.103` - Score: 3
-6. `158.94.209.200` - Score: 3
-7. `158.94.209.58` - Score: 3
-8. `176.65.132.23` - Score: 3
-9. `91.92.243.215` - Score: 3
-10. `176.65.148.57` - Score: 3
+1. `206.189.5.96` - Score: 3
+2. `178.16.52.122` - Score: 3
+3. `178.16.53.79` - Score: 3
+4. `91.92.240.38` - Score: 3
+5. `27.223.85.234` - Score: 3
+6. `178.16.54.40` - Score: 3
+7. `178.16.54.246` - Score: 3
+8. `143.110.188.80` - Score: 3
+9. `192.3.154.52` - Score: 3
+10. `159.223.212.74` - Score: 3
