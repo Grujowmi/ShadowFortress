@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-02-13 18:00:35
+**Dernière mise à jour** : 2026-02-14 00:00:36
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 71,010
-- **IPs uniques** : 48,414
-- **IPs dans la liste finale** : 48,414
+- **IPs brutes collectées** : 71,006
+- **IPs uniques** : 48,412
+- **IPs dans la liste finale** : 48,412
 
 ### Top 10 IPs par score
-1. `103.8.27.27` - Score: 4
-2. `24.65.233.27` - Score: 4
-3. `185.177.72.23` - Score: 4
-4. `101.36.104.242` - Score: 4
-5. `130.61.28.82` - Score: 4
-6. `195.178.110.15` - Score: 4
-7. `91.224.92.78` - Score: 4
-8. `185.177.72.22` - Score: 4
-9. `130.12.181.151` - Score: 4
-10. `130.12.181.157` - Score: 4
+1. `111.32.36.226` - Score: 4
+2. `89.187.162.178` - Score: 4
+3. `130.12.181.157` - Score: 4
+4. `50.149.203.166` - Score: 4
+5. `103.8.27.27` - Score: 4
+6. `165.154.227.13` - Score: 4
+7. `72.146.1.154` - Score: 4
+8. `101.36.104.242` - Score: 4
+9. `45.149.173.233` - Score: 4
+10. `130.12.180.95` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 218,741
-- **IPs uniques** : 186,368
+- **IPs brutes collectées** : 218,874
+- **IPs uniques** : 186,490
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `158.94.209.52` - Score: 3
-2. `185.177.239.89` - Score: 3
-3. `209.38.33.240` - Score: 3
-4. `86.54.42.197` - Score: 3
-5. `91.92.243.162` - Score: 3
-6. `187.188.191.252` - Score: 3
-7. `69.5.189.168` - Score: 3
-8. `158.94.208.141` - Score: 3
-9. `91.230.168.0` - Score: 3
-10. `91.224.92.78` - Score: 3
+1. `158.94.208.141` - Score: 3
+2. `86.54.42.188` - Score: 3
+3. `69.5.189.168` - Score: 3
+4. `158.94.209.192` - Score: 3
+5. `143.110.188.80` - Score: 3
+6. `27.223.85.234` - Score: 3
+7. `209.38.33.240` - Score: 3
+8. `91.224.92.78` - Score: 3
+9. `91.92.243.164` - Score: 3
+10. `178.16.54.40` - Score: 3
