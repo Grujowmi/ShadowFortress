@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-02-14 00:00:36
+**Dernière mise à jour** : 2026-02-14 06:00:36
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 71,006
-- **IPs uniques** : 48,412
-- **IPs dans la liste finale** : 48,412
+- **IPs brutes collectées** : 70,959
+- **IPs uniques** : 51,211
+- **IPs dans la liste finale** : 51,211
 
 ### Top 10 IPs par score
-1. `111.32.36.226` - Score: 4
-2. `89.187.162.178` - Score: 4
-3. `130.12.181.157` - Score: 4
-4. `50.149.203.166` - Score: 4
-5. `103.8.27.27` - Score: 4
-6. `165.154.227.13` - Score: 4
-7. `72.146.1.154` - Score: 4
-8. `101.36.104.242` - Score: 4
-9. `45.149.173.233` - Score: 4
-10. `130.12.180.95` - Score: 4
+1. `2.57.122.238` - Score: 4
+2. `103.8.27.27` - Score: 4
+3. `130.12.180.95` - Score: 4
+4. `149.102.225.182` - Score: 4
+5. `194.5.82.91` - Score: 4
+6. `144.91.116.2` - Score: 4
+7. `24.65.233.27` - Score: 4
+8. `89.185.81.112` - Score: 4
+9. `161.118.211.239` - Score: 4
+10. `130.12.181.151` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 218,874
-- **IPs uniques** : 186,490
+- **IPs brutes collectées** : 220,935
+- **IPs uniques** : 189,754
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `158.94.208.141` - Score: 3
-2. `86.54.42.188` - Score: 3
-3. `69.5.189.168` - Score: 3
-4. `158.94.209.192` - Score: 3
-5. `143.110.188.80` - Score: 3
-6. `27.223.85.234` - Score: 3
-7. `209.38.33.240` - Score: 3
-8. `91.224.92.78` - Score: 3
-9. `91.92.243.164` - Score: 3
-10. `178.16.54.40` - Score: 3
+1. `45.129.231.10` - Score: 3
+2. `86.54.42.68` - Score: 3
+3. `178.16.52.122` - Score: 3
+4. `212.11.64.229` - Score: 3
+5. `158.94.210.132` - Score: 3
+6. `37.46.196.22` - Score: 3
+7. `91.92.243.215` - Score: 3
+8. `158.94.209.200` - Score: 3
+9. `178.16.52.103` - Score: 3
+10. `91.230.168.0` - Score: 3
