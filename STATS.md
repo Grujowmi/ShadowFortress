@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-02-16 00:00:36
+**Dernière mise à jour** : 2026-02-16 06:00:37
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 70,566
-- **IPs uniques** : 48,759
-- **IPs dans la liste finale** : 48,759
+- **IPs brutes collectées** : 70,808
+- **IPs uniques** : 51,796
+- **IPs dans la liste finale** : 51,796
 
 ### Top 10 IPs par score
-1. `91.224.92.108` - Score: 4
-2. `85.11.167.3` - Score: 4
-3. `91.224.92.54` - Score: 4
-4. `158.178.224.130` - Score: 4
-5. `103.40.61.98` - Score: 4
-6. `167.86.109.193` - Score: 4
-7. `92.118.39.72` - Score: 4
-8. `45.148.10.141` - Score: 4
-9. `91.224.92.190` - Score: 4
-10. `2.57.122.238` - Score: 4
+1. `134.65.30.157` - Score: 5
+2. `210.211.122.97` - Score: 5
+3. `103.40.61.98` - Score: 5
+4. `173.244.42.146` - Score: 4
+5. `45.148.10.151` - Score: 4
+6. `20.223.211.237` - Score: 4
+7. `51.79.128.217` - Score: 4
+8. `89.185.81.112` - Score: 4
+9. `45.148.10.157` - Score: 4
+10. `61.245.11.87` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 219,256
-- **IPs uniques** : 187,153
+- **IPs brutes collectées** : 221,039
+- **IPs uniques** : 189,935
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `158.94.209.52` - Score: 3
-2. `87.121.84.27` - Score: 3
-3. `158.94.210.44` - Score: 3
-4. `212.11.64.103` - Score: 3
-5. `130.12.180.55` - Score: 3
-6. `158.94.209.58` - Score: 3
-7. `45.129.231.10` - Score: 3
-8. `91.92.243.162` - Score: 3
-9. `178.16.54.246` - Score: 3
-10. `91.224.92.78` - Score: 3
+1. `178.16.54.50` - Score: 3
+2. `78.142.18.92` - Score: 3
+3. `103.124.107.208` - Score: 3
+4. `178.16.54.252` - Score: 3
+5. `178.16.52.103` - Score: 3
+6. `178.16.53.234` - Score: 3
+7. `176.65.148.57` - Score: 3
+8. `185.126.67.49` - Score: 3
+9. `27.223.85.234` - Score: 3
+10. `178.16.53.79` - Score: 3
