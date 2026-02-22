@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-02-22 00:01:36
+**Dernière mise à jour** : 2026-02-22 06:00:59
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 70,973
-- **IPs uniques** : 47,407
-- **IPs dans la liste finale** : 47,407
+- **IPs brutes collectées** : 71,254
+- **IPs uniques** : 50,522
+- **IPs dans la liste finale** : 50,522
 
 ### Top 10 IPs par score
-1. `222.104.120.107` - Score: 4
-2. `24.65.233.27` - Score: 4
-3. `2.57.122.238` - Score: 4
-4. `36.255.223.167` - Score: 4
-5. `45.148.10.157` - Score: 4
-6. `185.254.75.32` - Score: 4
-7. `103.239.252.132` - Score: 4
-8. `74.248.96.218` - Score: 4
-9. `83.168.105.145` - Score: 4
-10. `154.47.20.226` - Score: 4
+1. `80.94.92.168` - Score: 4
+2. `94.72.116.78` - Score: 4
+3. `45.148.10.157` - Score: 4
+4. `176.65.132.190` - Score: 4
+5. `152.32.162.42` - Score: 4
+6. `210.211.122.97` - Score: 4
+7. `169.150.203.251` - Score: 4
+8. `92.118.39.76` - Score: 4
+9. `20.203.180.135` - Score: 4
+10. `158.158.33.103` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 223,498
-- **IPs uniques** : 189,752
+- **IPs brutes collectées** : 224,838
+- **IPs uniques** : 192,518
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `176.65.148.57` - Score: 3
-2. `87.121.84.27` - Score: 3
-3. `49.235.26.82` - Score: 3
-4. `78.128.112.146` - Score: 3
-5. `157.245.103.107` - Score: 3
-6. `69.5.189.168` - Score: 3
-7. `68.183.43.201` - Score: 3
-8. `64.225.99.151` - Score: 3
-9. `212.11.64.229` - Score: 3
-10. `139.162.18.30` - Score: 3
+1. `86.54.42.188` - Score: 3
+2. `158.94.210.44` - Score: 3
+3. `109.205.211.40` - Score: 3
+4. `91.224.92.78` - Score: 3
+5. `160.30.159.104` - Score: 3
+6. `49.235.26.82` - Score: 3
+7. `78.128.112.146` - Score: 3
+8. `158.94.208.141` - Score: 3
+9. `165.22.193.95` - Score: 3
+10. `212.11.64.103` - Score: 3
