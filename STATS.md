@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-02-27 00:01:45
+**Dernière mise à jour** : 2026-02-27 06:01:30
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 71,092
-- **IPs uniques** : 47,915
-- **IPs dans la liste finale** : 47,915
+- **IPs brutes collectées** : 72,684
+- **IPs uniques** : 51,850
+- **IPs dans la liste finale** : 51,850
 
 ### Top 10 IPs par score
 1. `103.40.61.98` - Score: 5
-2. `45.81.23.49` - Score: 4
-3. `45.249.244.185` - Score: 4
-4. `101.36.118.177` - Score: 4
-5. `81.167.26.57` - Score: 4
-6. `176.65.132.19` - Score: 4
-7. `134.65.30.157` - Score: 4
-8. `83.168.105.145` - Score: 4
-9. `45.15.224.178` - Score: 4
-10. `2.57.122.238` - Score: 4
+2. `91.224.92.195` - Score: 4
+3. `169.150.203.245` - Score: 4
+4. `141.98.11.209` - Score: 4
+5. `147.135.76.204` - Score: 4
+6. `2.57.122.238` - Score: 4
+7. `83.168.105.145` - Score: 4
+8. `154.47.23.3` - Score: 4
+9. `185.177.72.56` - Score: 4
+10. `101.36.118.177` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 223,555
-- **IPs uniques** : 190,147
+- **IPs brutes collectées** : 228,324
+- **IPs uniques** : 195,443
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `158.94.208.134` - Score: 3
-2. `141.98.11.224` - Score: 3
+1. `78.128.112.146` - Score: 3
+2. `176.65.132.23` - Score: 3
 3. `188.166.173.40` - Score: 3
-4. `27.223.85.234` - Score: 3
-5. `221.234.36.123` - Score: 3
-6. `185.196.11.126` - Score: 3
-7. `138.68.188.230` - Score: 3
-8. `158.94.209.200` - Score: 3
-9. `210.16.168.11` - Score: 3
-10. `212.11.64.229` - Score: 3
+4. `176.65.148.52` - Score: 3
+5. `8.215.200.33` - Score: 3
+6. `158.94.210.136` - Score: 3
+7. `210.16.168.11` - Score: 3
+8. `91.224.92.78` - Score: 3
+9. `167.172.181.197` - Score: 3
+10. `158.94.210.44` - Score: 3
