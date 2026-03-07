@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-03-07 06:01:06
+**Dernière mise à jour** : 2026-03-07 12:01:06
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 72,110
-- **IPs uniques** : 52,467
-- **IPs dans la liste finale** : 52,467
+- **IPs brutes collectées** : 71,161
+- **IPs uniques** : 48,031
+- **IPs dans la liste finale** : 48,031
 
 ### Top 10 IPs par score
-1. `45.192.96.183` - Score: 5
-2. `125.17.108.32` - Score: 4
-3. `115.190.20.70` - Score: 4
-4. `185.193.156.145` - Score: 4
-5. `154.81.14.244` - Score: 4
-6. `5.189.188.55` - Score: 4
-7. `200.9.155.87` - Score: 4
-8. `85.203.23.41` - Score: 4
-9. `89.187.162.178` - Score: 4
-10. `101.36.104.242` - Score: 4
+1. `125.17.108.32` - Score: 5
+2. `158.173.154.178` - Score: 4
+3. `193.37.32.27` - Score: 4
+4. `185.177.72.51` - Score: 4
+5. `193.37.32.4` - Score: 4
+6. `158.173.154.163` - Score: 4
+7. `193.37.32.36` - Score: 4
+8. `193.37.32.195` - Score: 4
+9. `2.57.121.25` - Score: 4
+10. `95.217.109.26` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 228,550
-- **IPs uniques** : 198,877
+- **IPs brutes collectées** : 228,621
+- **IPs uniques** : 198,940
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `212.11.64.229` - Score: 3
-2. `195.184.76.0` - Score: 3
-3. `158.94.210.44` - Score: 3
-4. `178.16.53.140` - Score: 3
-5. `2.58.56.233` - Score: 3
-6. `103.143.231.99` - Score: 3
-7. `141.98.11.224` - Score: 3
-8. `185.196.9.252` - Score: 3
-9. `78.128.112.146` - Score: 3
-10. `45.153.34.117` - Score: 3
+1. `176.65.139.12` - Score: 3
+2. `176.65.132.23` - Score: 3
+3. `185.196.9.252` - Score: 3
+4. `143.20.185.252` - Score: 3
+5. `212.11.64.103` - Score: 3
+6. `188.166.173.40` - Score: 3
+7. `195.184.76.0` - Score: 3
+8. `45.153.34.117` - Score: 3
+9. `86.54.42.197` - Score: 3
+10. `91.224.92.78` - Score: 3
