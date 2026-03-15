@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-03-15 00:01:08
+**Dernière mise à jour** : 2026-03-15 06:01:08
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 70,197
-- **IPs uniques** : 47,361
-- **IPs dans la liste finale** : 47,361
+- **IPs brutes collectées** : 70,689
+- **IPs uniques** : 50,831
+- **IPs dans la liste finale** : 50,831
 
 ### Top 10 IPs par score
-1. `141.98.11.209` - Score: 4
-2. `185.177.72.52` - Score: 4
-3. `185.177.72.22` - Score: 4
-4. `210.211.122.97` - Score: 4
-5. `139.162.173.209` - Score: 4
-6. `146.235.35.84` - Score: 4
-7. `218.157.205.238` - Score: 4
-8. `222.104.120.107` - Score: 4
-9. `142.93.167.198` - Score: 4
-10. `82.197.71.28` - Score: 4
+1. `101.36.118.177` - Score: 5
+2. `130.12.181.157` - Score: 4
+3. `185.177.72.23` - Score: 4
+4. `169.150.203.251` - Score: 4
+5. `130.12.182.185` - Score: 4
+6. `163.7.1.156` - Score: 4
+7. `103.40.61.98` - Score: 4
+8. `152.32.162.42` - Score: 4
+9. `185.91.69.217` - Score: 4
+10. `185.177.72.49` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 226,153
-- **IPs uniques** : 194,282
+- **IPs brutes collectées** : 232,812
+- **IPs uniques** : 202,419
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `91.224.92.78` - Score: 3
-2. `206.189.80.194` - Score: 3
-3. `178.16.52.74` - Score: 3
+1. `178.16.52.74` - Score: 3
+2. `176.65.132.23` - Score: 3
+3. `103.143.231.99` - Score: 3
 4. `89.234.157.254` - Score: 3
-5. `141.98.11.224` - Score: 3
-6. `176.65.139.12` - Score: 3
-7. `104.248.202.172` - Score: 3
-8. `43.153.150.122` - Score: 3
-9. `45.153.34.117` - Score: 3
-10. `3.80.92.191` - Score: 3
+5. `91.196.152.0` - Score: 3
+6. `45.129.231.10` - Score: 3
+7. `144.31.230.137` - Score: 3
+8. `206.189.5.192` - Score: 3
+9. `91.231.89.0` - Score: 3
+10. `212.11.64.103` - Score: 3
