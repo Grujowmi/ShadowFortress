@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-05-15 06:00:39
+**Dernière mise à jour** : 2026-05-15 12:00:39
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 83,910
-- **IPs uniques** : 59,625
-- **IPs dans la liste finale** : 59,625
+- **IPs brutes collectées** : 83,965
+- **IPs uniques** : 59,937
+- **IPs dans la liste finale** : 59,937
 
 ### Top 10 IPs par score
-1. `185.177.72.68` - Score: 4
-2. `185.38.148.2` - Score: 4
-3. `181.104.43.225` - Score: 4
-4. `172.98.33.72` - Score: 4
-5. `45.135.193.157` - Score: 4
-6. `195.178.110.104` - Score: 4
+1. `181.104.43.225` - Score: 5
+2. `190.2.135.111` - Score: 5
+3. `125.20.210.182` - Score: 5
+4. `194.180.49.49` - Score: 4
+5. `212.227.13.69` - Score: 4
+6. `172.212.136.43` - Score: 4
 7. `172.98.33.125` - Score: 4
-8. `138.68.243.18` - Score: 4
-9. `138.68.144.227` - Score: 4
-10. `152.32.162.42` - Score: 4
+8. `110.35.80.116` - Score: 4
+9. `185.177.72.17` - Score: 4
+10. `77.22.211.47` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 242,283
-- **IPs uniques** : 215,450
+- **IPs brutes collectées** : 241,988
+- **IPs uniques** : 215,039
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `178.16.52.253` - Score: 3
-2. `213.209.159.158` - Score: 3
-3. `165.154.224.129` - Score: 3
-4. `77.90.51.233` - Score: 3
-5. `137.220.224.15` - Score: 3
-6. `89.234.157.254` - Score: 3
-7. `176.65.132.17` - Score: 3
-8. `137.220.224.16` - Score: 3
-9. `213.209.159.175` - Score: 3
-10. `185.56.45.50` - Score: 3
+1. `111.123.41.235` - Score: 3
+2. `89.234.157.254` - Score: 3
+3. `137.220.224.18` - Score: 3
+4. `45.94.31.119` - Score: 3
+5. `176.65.132.153` - Score: 3
+6. `179.43.186.223` - Score: 3
+7. `213.209.159.158` - Score: 3
+8. `213.209.159.175` - Score: 3
+9. `176.65.139.64` - Score: 3
+10. `176.65.132.17` - Score: 3
