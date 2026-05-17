@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-05-17 06:00:43
+**Dernière mise à jour** : 2026-05-17 12:00:38
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 84,771
-- **IPs uniques** : 62,718
-- **IPs dans la liste finale** : 62,718
+- **IPs brutes collectées** : 88,545
+- **IPs uniques** : 62,752
+- **IPs dans la liste finale** : 62,752
 
 ### Top 10 IPs par score
-1. `103.253.178.3` - Score: 4
+1. `77.22.211.47` - Score: 4
 2. `213.209.159.56` - Score: 4
-3. `146.190.63.48` - Score: 4
-4. `128.199.182.55` - Score: 4
-5. `93.123.109.214` - Score: 4
-6. `94.102.49.155` - Score: 4
-7. `185.177.72.100` - Score: 4
-8. `20.226.126.60` - Score: 4
-9. `222.108.39.109` - Score: 4
-10. `46.101.1.225` - Score: 4
+3. `58.209.82.167` - Score: 4
+4. `117.164.191.217` - Score: 4
+5. `58.226.230.112` - Score: 4
+6. `185.177.72.68` - Score: 4
+7. `101.36.104.242` - Score: 4
+8. `92.205.109.21` - Score: 4
+9. `151.243.150.23` - Score: 4
+10. `207.154.197.113` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 244,827
-- **IPs uniques** : 217,276
+- **IPs brutes collectées** : 245,218
+- **IPs uniques** : 217,664
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `43.228.157.121` - Score: 3
-2. `89.234.157.254` - Score: 3
-3. `213.209.159.175` - Score: 3
-4. `165.154.224.129` - Score: 3
-5. `137.220.224.15` - Score: 3
-6. `195.178.110.135` - Score: 3
-7. `158.94.210.44` - Score: 3
-8. `111.123.41.235` - Score: 3
-9. `3.80.92.191` - Score: 3
-10. `141.98.11.224` - Score: 3
+1. `176.65.132.242` - Score: 3
+2. `172.235.189.160` - Score: 3
+3. `165.154.224.129` - Score: 3
+4. `89.234.157.254` - Score: 3
+5. `213.209.159.175` - Score: 3
+6. `176.65.132.153` - Score: 3
+7. `111.123.41.235` - Score: 3
+8. `45.94.31.119` - Score: 3
+9. `195.178.110.135` - Score: 3
+10. `3.80.92.191` - Score: 3
