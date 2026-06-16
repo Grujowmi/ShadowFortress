@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-06-16 12:00:41
+**Dernière mise à jour** : 2026-06-16 18:00:36
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 90,576
-- **IPs uniques** : 65,822
-- **IPs dans la liste finale** : 65,822
+- **IPs brutes collectées** : 89,686
+- **IPs uniques** : 66,215
+- **IPs dans la liste finale** : 66,215
 
 ### Top 10 IPs par score
-1. `143.20.49.38` - Score: 5
-2. `194.5.82.45` - Score: 4
-3. `185.38.148.2` - Score: 4
-4. `194.5.82.50` - Score: 4
-5. `195.178.110.108` - Score: 4
-6. `151.243.150.23` - Score: 4
-7. `103.168.66.141` - Score: 4
-8. `103.168.67.159` - Score: 4
-9. `194.5.82.12` - Score: 4
-10. `79.76.58.113` - Score: 4
+1. `195.20.239.136` - Score: 4
+2. `198.50.202.93` - Score: 4
+3. `195.178.110.223` - Score: 4
+4. `185.38.148.2` - Score: 4
+5. `152.32.132.28` - Score: 4
+6. `138.197.39.208` - Score: 4
+7. `110.35.80.116` - Score: 4
+8. `160.187.174.22` - Score: 4
+9. `41.75.114.30` - Score: 4
+10. `101.36.104.242` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 219,561
-- **IPs uniques** : 195,559
+- **IPs brutes collectées** : 218,746
+- **IPs uniques** : 193,998
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `85.239.151.41` - Score: 3
-2. `77.223.99.43` - Score: 3
-3. `89.23.108.134` - Score: 3
-4. `165.154.104.88` - Score: 3
-5. `220.181.1.163` - Score: 3
-6. `213.209.159.158` - Score: 3
-7. `176.65.139.64` - Score: 3
-8. `109.236.50.3` - Score: 3
-9. `185.38.148.2` - Score: 3
-10. `217.154.61.249` - Score: 3
+1. `175.200.104.40` - Score: 3
+2. `195.20.239.136` - Score: 3
+3. `198.50.202.93` - Score: 3
+4. `172.94.9.74` - Score: 3
+5. `94.26.106.216` - Score: 3
+6. `185.38.148.2` - Score: 3
+7. `45.156.87.147` - Score: 3
+8. `47.253.156.31` - Score: 3
+9. `138.197.39.208` - Score: 3
+10. `110.35.80.116` - Score: 3
