@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-06-17 12:00:39
+**Dernière mise à jour** : 2026-06-17 18:00:36
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 83,035
-- **IPs uniques** : 58,223
-- **IPs dans la liste finale** : 58,223
+- **IPs brutes collectées** : 81,773
+- **IPs uniques** : 58,235
+- **IPs dans la liste finale** : 58,235
 
 ### Top 10 IPs par score
-1. `138.197.39.208` - Score: 5
-2. `160.250.204.33` - Score: 4
-3. `107.189.24.77` - Score: 4
-4. `77.105.161.28` - Score: 4
-5. `151.243.150.23` - Score: 4
-6. `213.209.159.56` - Score: 4
-7. `93.123.109.165` - Score: 4
-8. `101.96.200.105` - Score: 4
-9. `14.55.31.113` - Score: 4
-10. `83.143.112.140` - Score: 4
+1. `212.127.90.201` - Score: 4
+2. `138.124.242.51` - Score: 4
+3. `142.248.80.222` - Score: 4
+4. `45.33.65.239` - Score: 4
+5. `167.99.210.137` - Score: 4
+6. `143.20.49.38` - Score: 4
+7. `118.26.111.107` - Score: 4
+8. `80.77.124.109` - Score: 4
+9. `208.84.100.113` - Score: 4
+10. `111.30.42.43` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 218,749
-- **IPs uniques** : 194,825
+- **IPs brutes collectées** : 217,374
+- **IPs uniques** : 192,077
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `8.134.122.94` - Score: 3
-2. `47.253.5.130` - Score: 3
-3. `185.56.45.50` - Score: 3
-4. `36.50.135.229` - Score: 3
-5. `165.154.46.183` - Score: 3
-6. `165.154.104.88` - Score: 3
-7. `122.165.124.15` - Score: 3
-8. `128.199.225.7` - Score: 3
-9. `45.156.87.147` - Score: 3
-10. `94.26.106.216` - Score: 3
+1. `212.127.90.201` - Score: 3
+2. `91.92.243.20` - Score: 3
+3. `37.58.136.133` - Score: 3
+4. `47.95.234.23` - Score: 3
+5. `138.124.242.51` - Score: 3
+6. `31.77.156.62` - Score: 3
+7. `109.236.50.3` - Score: 3
+8. `122.165.124.15` - Score: 3
+9. `167.99.72.161` - Score: 3
+10. `85.239.151.41` - Score: 3
