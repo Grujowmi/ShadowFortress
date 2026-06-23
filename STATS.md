@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-06-18 12:00:37
+**Dernière mise à jour** : 2026-06-23 12:00:37
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 87,159
-- **IPs uniques** : 62,713
-- **IPs dans la liste finale** : 62,713
+- **IPs brutes collectées** : 78,692
+- **IPs uniques** : 56,762
+- **IPs dans la liste finale** : 56,762
 
 ### Top 10 IPs par score
-1. `109.100.14.222` - Score: 5
-2. `193.37.32.134` - Score: 4
-3. `31.132.90.3` - Score: 4
-4. `198.50.202.93` - Score: 4
-5. `110.35.80.116` - Score: 4
-6. `152.32.132.28` - Score: 4
-7. `117.177.102.79` - Score: 4
-8. `193.37.32.110` - Score: 4
-9. `109.236.50.3` - Score: 4
-10. `185.227.153.56` - Score: 4
+1. `45.129.185.4` - Score: 5
+2. `159.65.112.25` - Score: 4
+3. `20.206.105.71` - Score: 4
+4. `176.65.139.233` - Score: 4
+5. `195.178.110.105` - Score: 4
+6. `92.4.76.12` - Score: 4
+7. `193.202.11.112` - Score: 4
+8. `118.26.111.107` - Score: 4
+9. `195.178.110.157` - Score: 4
+10. `189.51.43.54` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 219,097
-- **IPs uniques** : 194,730
+- **IPs brutes collectées** : 212,224
+- **IPs uniques** : 189,878
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `198.50.202.93` - Score: 3
-2. `165.154.104.88` - Score: 3
-3. `77.83.39.197` - Score: 3
-4. `110.35.80.116` - Score: 3
-5. `176.65.139.114` - Score: 3
-6. `217.154.61.249` - Score: 3
-7. `45.153.34.181` - Score: 3
-8. `109.236.50.3` - Score: 3
-9. `164.68.108.70` - Score: 3
-10. `91.209.228.154` - Score: 3
+1. `138.197.39.208` - Score: 3
+2. `101.206.108.14` - Score: 3
+3. `103.183.119.48` - Score: 3
+4. `198.50.202.93` - Score: 3
+5. `210.16.168.11` - Score: 3
+6. `94.26.106.216` - Score: 3
+7. `176.65.139.36` - Score: 3
+8. `185.177.72.68` - Score: 3
+9. `172.104.241.98` - Score: 3
+10. `167.233.68.137` - Score: 3
