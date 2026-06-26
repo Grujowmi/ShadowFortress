@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-06-26 18:00:36
+**Dernière mise à jour** : 2026-06-27 00:00:38
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 77,666
-- **IPs uniques** : 58,952
-- **IPs dans la liste finale** : 58,952
+- **IPs brutes collectées** : 76,601
+- **IPs uniques** : 55,178
+- **IPs dans la liste finale** : 55,178
 
 ### Top 10 IPs par score
-1. `93.89.113.60` - Score: 4
-2. `185.177.72.38` - Score: 4
-3. `209.99.185.239` - Score: 4
-4. `118.220.149.121` - Score: 4
-5. `203.25.124.228` - Score: 4
-6. `90.84.168.147` - Score: 4
-7. `185.177.72.70` - Score: 4
-8. `160.187.174.22` - Score: 4
-9. `203.25.124.100` - Score: 4
-10. `213.209.159.223` - Score: 4
+1. `41.75.114.30` - Score: 4
+2. `192.42.116.58` - Score: 4
+3. `203.25.124.228` - Score: 4
+4. `4.207.145.86` - Score: 4
+5. `140.245.121.60` - Score: 4
+6. `118.145.104.105` - Score: 4
+7. `185.177.72.53` - Score: 4
+8. `93.89.113.60` - Score: 4
+9. `185.65.202.199` - Score: 4
+10. `143.20.49.38` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 213,415
-- **IPs uniques** : 189,632
+- **IPs brutes collectées** : 213,469
+- **IPs uniques** : 189,680
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `47.253.5.130` - Score: 3
-2. `91.196.152.0` - Score: 3
-3. `176.65.139.46` - Score: 3
-4. `118.145.245.82` - Score: 3
-5. `176.65.132.17` - Score: 3
-6. `150.138.182.190` - Score: 3
-7. `209.99.185.239` - Score: 3
-8. `109.236.50.3` - Score: 3
-9. `138.197.39.208` - Score: 3
-10. `192.142.28.77` - Score: 3
+1. `120.48.32.130` - Score: 3
+2. `43.156.71.219` - Score: 3
+3. `185.177.72.68` - Score: 3
+4. `176.65.139.46` - Score: 3
+5. `113.125.165.132` - Score: 3
+6. `91.196.152.0` - Score: 3
+7. `37.58.136.133` - Score: 3
+8. `221.234.36.123` - Score: 3
+9. `27.153.157.138` - Score: 3
+10. `47.85.8.171` - Score: 3
