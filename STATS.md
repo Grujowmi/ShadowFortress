@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-06-28 12:00:34
+**Dernière mise à jour** : 2026-06-28 18:00:35
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 78,968
-- **IPs uniques** : 57,015
-- **IPs dans la liste finale** : 57,015
+- **IPs brutes collectées** : 78,606
+- **IPs uniques** : 57,699
+- **IPs dans la liste finale** : 57,699
 
 ### Top 10 IPs par score
-1. `209.99.185.239` - Score: 4
-2. `86.54.31.38` - Score: 4
-3. `18.139.73.91` - Score: 4
-4. `136.144.35.156` - Score: 4
-5. `212.127.90.201` - Score: 4
-6. `125.20.210.182` - Score: 4
-7. `160.187.174.22` - Score: 4
-8. `4.207.145.86` - Score: 4
-9. `31.132.90.3` - Score: 4
-10. `101.96.200.105` - Score: 4
+1. `118.26.111.107` - Score: 4
+2. `168.138.188.55` - Score: 4
+3. `41.63.63.211` - Score: 4
+4. `31.132.90.3` - Score: 4
+5. `4.232.94.73` - Score: 4
+6. `32.197.183.150` - Score: 4
+7. `176.65.139.232` - Score: 4
+8. `193.202.11.112` - Score: 4
+9. `176.65.139.237` - Score: 4
+10. `185.177.72.38` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 214,167
-- **IPs uniques** : 191,734
+- **IPs brutes collectées** : 211,665
+- **IPs uniques** : 188,605
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `209.99.185.239` - Score: 3
-2. `176.65.132.17` - Score: 3
-3. `175.200.104.40` - Score: 3
-4. `45.81.243.62` - Score: 3
-5. `45.156.87.31` - Score: 3
-6. `150.138.182.190` - Score: 3
-7. `221.234.36.123` - Score: 3
-8. `212.127.90.201` - Score: 3
-9. `183.81.169.76` - Score: 3
-10. `47.238.121.28` - Score: 3
+1. `47.77.182.54` - Score: 3
+2. `118.26.111.107` - Score: 3
+3. `27.153.157.138` - Score: 3
+4. `176.65.132.17` - Score: 3
+5. `31.132.90.3` - Score: 3
+6. `47.85.8.171` - Score: 3
+7. `45.153.34.181` - Score: 3
+8. `112.203.69.89` - Score: 3
+9. `91.92.240.38` - Score: 3
+10. `13.140.155.136` - Score: 3
