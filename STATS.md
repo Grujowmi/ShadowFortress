@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-07-04 00:00:35
+**Dernière mise à jour** : 2026-07-04 06:00:41
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 80,445
-- **IPs uniques** : 58,940
-- **IPs dans la liste finale** : 58,940
+- **IPs brutes collectées** : 81,180
+- **IPs uniques** : 61,849
+- **IPs dans la liste finale** : 61,849
 
 ### Top 10 IPs par score
-1. `212.227.235.203` - Score: 4
-2. `138.197.191.87` - Score: 4
-3. `185.177.72.54` - Score: 4
-4. `185.177.72.38` - Score: 4
-5. `206.189.233.36` - Score: 4
-6. `165.227.84.14` - Score: 4
-7. `34.178.21.247` - Score: 4
+1. `125.20.210.182` - Score: 5
+2. `204.76.203.206` - Score: 4
+3. `165.227.173.41` - Score: 4
+4. `110.35.80.116` - Score: 4
+5. `109.100.14.222` - Score: 4
+6. `212.127.90.201` - Score: 4
+7. `2.57.121.25` - Score: 4
 8. `81.226.129.67` - Score: 4
-9. `217.154.61.249` - Score: 4
-10. `125.20.210.182` - Score: 4
+9. `213.209.159.223` - Score: 4
+10. `31.76.27.231` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 214,552
-- **IPs uniques** : 193,024
+- **IPs brutes collectées** : 217,739
+- **IPs uniques** : 197,141
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `158.51.96.38` - Score: 3
-2. `163.7.1.156` - Score: 3
-3. `195.154.103.239` - Score: 3
-4. `91.92.243.20` - Score: 3
-5. `185.226.196.12` - Score: 3
-6. `113.125.165.132` - Score: 3
-7. `45.156.87.147` - Score: 3
-8. `178.16.54.239` - Score: 3
-9. `128.199.225.7` - Score: 3
-10. `64.227.0.95` - Score: 3
+1. `27.153.157.138` - Score: 3
+2. `172.236.228.227` - Score: 3
+3. `115.231.236.150` - Score: 3
+4. `101.206.108.14` - Score: 3
+5. `110.35.80.116` - Score: 3
+6. `109.100.14.222` - Score: 3
+7. `212.127.90.201` - Score: 3
+8. `66.240.223.240` - Score: 3
+9. `138.197.39.208` - Score: 3
+10. `158.51.96.38` - Score: 3
