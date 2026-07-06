@@ -1,29 +1,29 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-07-06 00:00:38
+**Dernière mise à jour** : 2026-07-06 06:00:36
 
 ---
 
 ## 📊 Blacklist Entrante (Inbound)
 
 - **Sources consultées** : 8
-- **Sources réussies** : 8
-- **Sources échouées** : 0
-- **IPs brutes collectées** : 80,861
-- **IPs uniques** : 60,208
-- **IPs dans la liste finale** : 60,208
+- **Sources réussies** : 7
+- **Sources échouées** : 1
+- **IPs brutes collectées** : 76,025
+- **IPs uniques** : 62,514
+- **IPs dans la liste finale** : 62,514
 
 ### Top 10 IPs par score
-1. `64.226.126.224` - Score: 4
-2. `212.32.76.31` - Score: 4
-3. `185.177.72.51` - Score: 4
-4. `176.53.159.198` - Score: 4
-5. `79.76.58.113` - Score: 4
-6. `160.187.174.22` - Score: 4
-7. `185.177.72.68` - Score: 4
-8. `95.47.246.223` - Score: 4
-9. `203.25.124.111` - Score: 4
-10. `203.25.124.117` - Score: 4
+1. `165.227.171.230` - Score: 3
+2. `121.40.151.192` - Score: 3
+3. `64.23.218.208` - Score: 3
+4. `121.40.84.38` - Score: 3
+5. `34.14.79.227` - Score: 3
+6. `31.208.220.217` - Score: 3
+7. `125.131.2.28` - Score: 3
+8. `121.41.81.216` - Score: 3
+9. `123.57.137.86` - Score: 3
+10. `84.74.163.210` - Score: 3
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 215,859
-- **IPs uniques** : 194,388
+- **IPs brutes collectées** : 217,055
+- **IPs uniques** : 196,730
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `115.248.8.65` - Score: 3
-2. `212.127.90.201` - Score: 3
-3. `167.126.6.183` - Score: 3
-4. `188.32.210.218` - Score: 3
-5. `31.76.27.231` - Score: 3
-6. `82.156.212.174` - Score: 3
-7. `68.183.234.194` - Score: 3
-8. `109.100.14.222` - Score: 3
-9. `45.156.87.31` - Score: 3
-10. `45.153.34.117` - Score: 3
+1. `20.150.193.32` - Score: 3
+2. `178.128.51.84` - Score: 3
+3. `104.236.83.40` - Score: 3
+4. `20.163.61.13` - Score: 3
+5. `181.104.43.225` - Score: 3
+6. `157.245.123.148` - Score: 3
+7. `159.65.91.36` - Score: 3
+8. `172.236.228.227` - Score: 3
+9. `91.92.243.20` - Score: 3
+10. `95.59.142.69` - Score: 3
