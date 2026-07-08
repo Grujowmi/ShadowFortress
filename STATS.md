@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-07-08 00:00:38
+**Dernière mise à jour** : 2026-07-08 06:00:39
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 86,104
-- **IPs uniques** : 63,734
-- **IPs dans la liste finale** : 63,734
+- **IPs brutes collectées** : 87,709
+- **IPs uniques** : 67,048
+- **IPs dans la liste finale** : 67,048
 
 ### Top 10 IPs par score
-1. `185.65.202.199` - Score: 5
-2. `202.183.141.133` - Score: 5
-3. `185.177.72.12` - Score: 4
-4. `146.190.63.248` - Score: 4
-5. `204.76.203.206` - Score: 4
-6. `159.223.38.227` - Score: 4
-7. `2.26.49.39` - Score: 4
-8. `185.147.27.88` - Score: 4
-9. `185.70.109.79` - Score: 4
-10. `31.77.129.211` - Score: 4
+1. `202.183.141.133` - Score: 5
+2. `194.5.82.17` - Score: 4
+3. `184.105.3.84` - Score: 4
+4. `172.235.168.35` - Score: 4
+5. `194.5.82.40` - Score: 4
+6. `185.147.27.88` - Score: 4
+7. `195.54.179.244` - Score: 4
+8. `45.129.185.4` - Score: 4
+9. `172.235.181.217` - Score: 4
+10. `194.5.82.15` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 214,702
-- **IPs uniques** : 193,230
+- **IPs brutes collectées** : 217,274
+- **IPs uniques** : 196,493
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `47.97.127.96` - Score: 3
-2. `3.129.187.38` - Score: 3
-3. `13.140.155.136` - Score: 3
-4. `47.253.5.130` - Score: 3
-5. `101.36.104.242` - Score: 3
-6. `31.132.90.3` - Score: 3
-7. `159.65.91.36` - Score: 3
-8. `212.127.91.32` - Score: 3
-9. `172.104.241.98` - Score: 3
-10. `157.245.123.148` - Score: 3
+1. `20.169.105.51` - Score: 3
+2. `106.12.168.187` - Score: 3
+3. `45.90.163.37` - Score: 3
+4. `195.54.179.244` - Score: 3
+5. `209.99.188.240` - Score: 3
+6. `47.97.127.96` - Score: 3
+7. `172.236.228.227` - Score: 3
+8. `185.226.196.12` - Score: 3
+9. `47.95.234.23` - Score: 3
+10. `167.126.6.183` - Score: 3
