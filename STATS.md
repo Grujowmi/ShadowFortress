@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-07-11 00:00:41
+**Dernière mise à jour** : 2026-07-11 06:00:39
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 95,589
-- **IPs uniques** : 70,877
-- **IPs dans la liste finale** : 70,877
+- **IPs brutes collectées** : 95,863
+- **IPs uniques** : 74,170
+- **IPs dans la liste finale** : 74,170
 
 ### Top 10 IPs par score
-1. `177.23.224.36` - Score: 4
-2. `160.187.221.29` - Score: 4
-3. `108.77.146.19` - Score: 4
-4. `164.100.212.184` - Score: 4
-5. `189.6.88.213` - Score: 4
-6. `189.5.189.97` - Score: 4
-7. `49.200.45.66` - Score: 4
-8. `37.46.190.251` - Score: 4
-9. `122.54.169.3` - Score: 4
-10. `31.132.90.3` - Score: 4
+1. `185.65.202.199` - Score: 5
+2. `110.159.245.62` - Score: 4
+3. `46.43.85.185` - Score: 4
+4. `34.166.28.66` - Score: 4
+5. `136.158.61.76` - Score: 4
+6. `118.26.111.107` - Score: 4
+7. `49.37.113.236` - Score: 4
+8. `103.165.71.199` - Score: 4
+9. `39.34.160.62` - Score: 4
+10. `171.248.202.125` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 220,693
-- **IPs uniques** : 198,111
+- **IPs brutes collectées** : 222,417
+- **IPs uniques** : 201,127
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `115.231.236.150` - Score: 3
-2. `20.163.61.13` - Score: 3
-3. `147.139.136.75` - Score: 3
-4. `195.178.110.135` - Score: 3
-5. `31.132.90.3` - Score: 3
-6. `193.32.162.60` - Score: 3
-7. `47.85.8.171` - Score: 3
-8. `178.16.54.239` - Score: 3
-9. `43.110.37.217` - Score: 3
-10. `104.236.83.40` - Score: 3
+1. `101.47.8.187` - Score: 3
+2. `45.79.5.11` - Score: 3
+3. `118.26.111.107` - Score: 3
+4. `68.183.234.194` - Score: 3
+5. `181.104.43.225` - Score: 3
+6. `192.142.28.77` - Score: 3
+7. `188.32.210.218` - Score: 3
+8. `195.54.179.244` - Score: 3
+9. `20.150.193.32` - Score: 3
+10. `91.231.89.0` - Score: 3
