@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-07-12 12:00:37
+**Dernière mise à jour** : 2026-07-12 18:00:37
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 92,150
-- **IPs uniques** : 64,476
-- **IPs dans la liste finale** : 64,476
+- **IPs brutes collectées** : 88,317
+- **IPs uniques** : 64,702
+- **IPs dans la liste finale** : 64,702
 
 ### Top 10 IPs par score
-1. `103.87.94.140` - Score: 4
-2. `109.51.97.136` - Score: 4
-3. `101.128.99.142` - Score: 4
-4. `120.236.49.131` - Score: 4
-5. `152.237.142.166` - Score: 4
-6. `217.113.25.58` - Score: 4
-7. `223.123.36.58` - Score: 4
-8. `31.132.90.3` - Score: 4
-9. `14.139.206.131` - Score: 4
-10. `144.48.224.40` - Score: 4
+1. `120.236.49.131` - Score: 4
+2. `197.219.146.242` - Score: 4
+3. `197.221.254.55` - Score: 4
+4. `197.249.48.16` - Score: 4
+5. `46.40.244.220` - Score: 4
+6. `60.53.133.243` - Score: 4
+7. `151.243.150.222` - Score: 4
+8. `185.249.227.95` - Score: 4
+9. `103.173.20.69` - Score: 4
+10. `89.248.168.227` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 217,954
-- **IPs uniques** : 196,197
+- **IPs brutes collectées** : 217,102
+- **IPs uniques** : 194,576
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `147.139.136.75` - Score: 3
-2. `213.209.159.91` - Score: 3
-3. `192.142.28.77` - Score: 3
-4. `46.151.182.161` - Score: 3
-5. `120.48.32.130` - Score: 3
-6. `31.132.90.3` - Score: 3
-7. `85.239.147.3` - Score: 3
-8. `172.202.118.46` - Score: 3
-9. `113.125.165.132` - Score: 3
-10. `45.148.10.119` - Score: 3
+1. `45.79.5.11` - Score: 3
+2. `114.34.106.146` - Score: 3
+3. `185.177.72.68` - Score: 3
+4. `183.56.243.176` - Score: 3
+5. `85.217.140.1` - Score: 3
+6. `47.253.5.130` - Score: 3
+7. `47.97.127.96` - Score: 3
+8. `102.220.160.47` - Score: 3
+9. `106.12.168.187` - Score: 3
+10. `94.154.43.10` - Score: 3
