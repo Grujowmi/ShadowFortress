@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-07-14 06:00:39
+**Dernière mise à jour** : 2026-07-14 12:00:44
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 85,414
-- **IPs uniques** : 66,270
-- **IPs dans la liste finale** : 66,270
+- **IPs brutes collectées** : 84,541
+- **IPs uniques** : 61,106
+- **IPs dans la liste finale** : 61,106
 
 ### Top 10 IPs par score
-1. `101.47.8.187` - Score: 4
-2. `49.36.243.28` - Score: 4
-3. `192.140.149.97` - Score: 4
-4. `72.255.9.39` - Score: 4
-5. `139.101.93.147` - Score: 4
-6. `185.177.72.52` - Score: 4
-7. `14.191.129.9` - Score: 4
-8. `47.247.177.190` - Score: 4
-9. `103.179.124.42` - Score: 4
-10. `203.192.249.107` - Score: 4
+1. `91.246.176.14` - Score: 4
+2. `93.34.228.46` - Score: 4
+3. `216.234.213.132` - Score: 4
+4. `61.0.44.251` - Score: 4
+5. `136.144.35.140` - Score: 4
+6. `160.187.174.22` - Score: 4
+7. `91.246.176.16` - Score: 4
+8. `149.210.223.24` - Score: 4
+9. `121.183.240.55` - Score: 4
+10. `178.134.214.198` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 214,915
-- **IPs uniques** : 194,004
+- **IPs brutes collectées** : 213,603
+- **IPs uniques** : 192,333
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `45.90.163.37` - Score: 3
-2. `101.47.8.187` - Score: 3
-3. `110.35.80.116` - Score: 3
-4. `46.151.182.161` - Score: 3
-5. `45.153.34.117` - Score: 3
-6. `47.104.163.51` - Score: 3
-7. `185.180.141.42` - Score: 3
-8. `36.50.135.229` - Score: 3
-9. `165.22.225.218` - Score: 3
-10. `88.151.33.203` - Score: 3
+1. `175.200.104.40` - Score: 3
+2. `210.16.168.11` - Score: 3
+3. `20.150.193.32` - Score: 3
+4. `47.85.8.171` - Score: 3
+5. `140.246.70.45` - Score: 3
+6. `87.251.66.118` - Score: 3
+7. `45.148.10.119` - Score: 3
+8. `43.110.37.217` - Score: 3
+9. `185.177.72.68` - Score: 3
+10. `14.103.10.167` - Score: 3
