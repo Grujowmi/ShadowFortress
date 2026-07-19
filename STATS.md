@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-07-19 12:00:34
+**Dernière mise à jour** : 2026-07-19 18:00:36
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 86,155
-- **IPs uniques** : 63,269
-- **IPs dans la liste finale** : 63,269
+- **IPs brutes collectées** : 85,164
+- **IPs uniques** : 63,299
+- **IPs dans la liste finale** : 63,299
 
 ### Top 10 IPs par score
-1. `89.126.211.166` - Score: 5
-2. `202.183.141.133` - Score: 5
-3. `185.177.72.17` - Score: 4
-4. `223.85.251.55` - Score: 4
-5. `97.107.131.17` - Score: 4
-6. `35.233.69.31` - Score: 4
-7. `185.223.152.118` - Score: 4
-8. `81.171.74.60` - Score: 4
-9. `185.223.152.113` - Score: 4
-10. `118.26.111.107` - Score: 4
+1. `83.97.78.224` - Score: 4
+2. `61.1.174.133` - Score: 4
+3. `172.3.104.122` - Score: 4
+4. `94.26.106.214` - Score: 4
+5. `185.177.72.17` - Score: 4
+6. `101.47.8.187` - Score: 4
+7. `89.248.168.227` - Score: 4
+8. `103.122.64.202` - Score: 4
+9. `172.235.168.35` - Score: 4
+10. `185.65.202.199` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 216,903
-- **IPs uniques** : 194,282
+- **IPs brutes collectées** : 213,682
+- **IPs uniques** : 190,290
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `221.234.36.123` - Score: 3
-2. `47.77.182.54` - Score: 3
-3. `158.51.96.38` - Score: 3
-4. `77.83.246.97` - Score: 3
-5. `45.198.224.5` - Score: 3
-6. `45.79.5.11` - Score: 3
-7. `45.156.87.31` - Score: 3
-8. `118.26.111.107` - Score: 3
-9. `20.150.193.32` - Score: 3
-10. `113.214.18.234` - Score: 3
+1. `221.130.29.85` - Score: 3
+2. `175.200.104.40` - Score: 3
+3. `45.79.192.108` - Score: 3
+4. `101.47.8.187` - Score: 3
+5. `221.234.36.123` - Score: 3
+6. `8.134.122.94` - Score: 3
+7. `88.151.33.203` - Score: 3
+8. `47.95.234.23` - Score: 3
+9. `3.129.187.38` - Score: 3
+10. `165.22.225.218` - Score: 3
