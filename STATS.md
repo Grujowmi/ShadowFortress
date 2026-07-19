@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-07-19 18:00:36
+**Dernière mise à jour** : 2026-07-20 00:00:35
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 85,164
-- **IPs uniques** : 63,299
-- **IPs dans la liste finale** : 63,299
+- **IPs brutes collectées** : 81,205
+- **IPs uniques** : 59,473
+- **IPs dans la liste finale** : 59,473
 
 ### Top 10 IPs par score
-1. `83.97.78.224` - Score: 4
-2. `61.1.174.133` - Score: 4
-3. `172.3.104.122` - Score: 4
-4. `94.26.106.214` - Score: 4
-5. `185.177.72.17` - Score: 4
-6. `101.47.8.187` - Score: 4
-7. `89.248.168.227` - Score: 4
-8. `103.122.64.202` - Score: 4
-9. `172.235.168.35` - Score: 4
-10. `185.65.202.199` - Score: 4
+1. `103.47.217.130` - Score: 4
+2. `45.84.107.174` - Score: 4
+3. `27.155.92.28` - Score: 4
+4. `138.84.114.73` - Score: 4
+5. `121.178.185.141` - Score: 4
+6. `170.150.170.122` - Score: 4
+7. `124.29.207.185` - Score: 4
+8. `192.42.116.55` - Score: 4
+9. `66.132.224.84` - Score: 4
+10. `185.223.152.118` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 213,682
-- **IPs uniques** : 190,290
+- **IPs brutes collectées** : 213,722
+- **IPs uniques** : 190,330
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `221.130.29.85` - Score: 3
-2. `175.200.104.40` - Score: 3
-3. `45.79.192.108` - Score: 3
-4. `101.47.8.187` - Score: 3
-5. `221.234.36.123` - Score: 3
-6. `8.134.122.94` - Score: 3
-7. `88.151.33.203` - Score: 3
-8. `47.95.234.23` - Score: 3
-9. `3.129.187.38` - Score: 3
-10. `165.22.225.218` - Score: 3
+1. `85.217.149.0` - Score: 3
+2. `158.51.96.38` - Score: 3
+3. `220.181.1.163` - Score: 3
+4. `113.125.165.132` - Score: 3
+5. `47.85.8.171` - Score: 3
+6. `66.240.223.240` - Score: 3
+7. `20.150.193.32` - Score: 3
+8. `91.92.243.20` - Score: 3
+9. `104.236.83.40` - Score: 3
+10. `64.89.163.160` - Score: 3
