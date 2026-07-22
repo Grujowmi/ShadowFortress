@@ -1,6 +1,6 @@
 # IP Blocklist Aggregator - Statistics
 
-**Dernière mise à jour** : 2026-07-22 18:00:37
+**Dernière mise à jour** : 2026-07-23 00:00:38
 
 ---
 
@@ -9,21 +9,21 @@
 - **Sources consultées** : 8
 - **Sources réussies** : 8
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 83,792
-- **IPs uniques** : 61,158
-- **IPs dans la liste finale** : 61,158
+- **IPs brutes collectées** : 81,334
+- **IPs uniques** : 58,820
+- **IPs dans la liste finale** : 58,820
 
 ### Top 10 IPs par score
-1. `115.245.33.58` - Score: 4
-2. `46.43.85.185` - Score: 4
-3. `160.30.104.144` - Score: 4
-4. `177.69.236.58` - Score: 4
-5. `152.32.175.45` - Score: 4
-6. `45.156.87.165` - Score: 4
-7. `111.92.72.149` - Score: 4
-8. `103.167.88.166` - Score: 4
-9. `118.26.111.107` - Score: 4
-10. `176.202.31.31` - Score: 4
+1. `163.61.60.30` - Score: 4
+2. `37.186.41.197` - Score: 4
+3. `216.51.171.83` - Score: 4
+4. `179.217.33.132` - Score: 4
+5. `148.66.142.9` - Score: 4
+6. `223.85.251.55` - Score: 4
+7. `178.134.214.198` - Score: 4
+8. `103.143.168.46` - Score: 4
+9. `185.177.72.31` - Score: 4
+10. `41.66.194.51` - Score: 4
 
 
 ---
@@ -33,18 +33,18 @@
 - **Sources consultées** : 6
 - **Sources réussies** : 6
 - **Sources échouées** : 0
-- **IPs brutes collectées** : 214,765
-- **IPs uniques** : 191,446
+- **IPs brutes collectées** : 214,785
+- **IPs uniques** : 191,466
 - **IPs dans la liste finale** : 100,000
 
 ### Top 10 IPs par score
-1. `94.154.43.60` - Score: 3
-2. `159.65.143.47` - Score: 3
-3. `147.185.132.0` - Score: 3
-4. `64.89.160.73` - Score: 3
-5. `69.164.245.165` - Score: 3
-6. `188.32.210.218` - Score: 3
-7. `118.26.111.107` - Score: 3
-8. `43.228.157.121` - Score: 3
-9. `101.206.108.14` - Score: 3
-10. `172.236.228.227` - Score: 3
+1. `118.182.166.128` - Score: 3
+2. `47.77.182.54` - Score: 3
+3. `195.178.110.232` - Score: 3
+4. `47.253.5.130` - Score: 3
+5. `138.197.39.208` - Score: 3
+6. `64.89.160.73` - Score: 3
+7. `59.110.152.228` - Score: 3
+8. `20.169.105.51` - Score: 3
+9. `209.99.185.239` - Score: 3
+10. `14.116.219.149` - Score: 3
